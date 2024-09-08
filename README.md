@@ -1,9 +1,10 @@
 <h1 align="center">🤓 ABOUT ME Xzerne</h1>
 <h3 align="center">A normal coder from Vietnam 🇻🇳</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3b/78/9f/3b789f713d39fd7de7b2435e3651092b.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzern&label=Profile%20views&color=0e75b6&style=flat" alt="xzern" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xzern" alt="xzerne" /></a> </p>
+
 
 - 🔭 I’m currently working at [OTAKU IS UNBREAKABLE](https://discord.com/invite/943rVuWTr7)
 
